@@ -1,0 +1,31 @@
+body {
+    background-color: #164a41;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#heading, 
+#title {
+    color: #f1b24a;
+}
+
+.pic {
+    align-items: center;
+}
+
+#heading {
+    text-align: center;
+}
+
+.descrip, 
+.ingred,
+.steps {
+    background-color: #4d774e;
+}
+
+.one, .two, .list {
+    color: #FFFFFF
+}
+
+#title {
+    color: #f1b24a;
+}
