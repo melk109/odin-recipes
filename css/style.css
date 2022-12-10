@@ -1,6 +1,10 @@
 body {
-    background-color: #164a41;
+    background-color: #279c88;
     font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.heading {
+    color: #f1b24a;
 }
 
 #heading, 
